@@ -34,8 +34,8 @@
   </build>
 
    <scm>
-    <connection>scm:git:git@github.com:Jahroots/zenika_nc.git</connection>
-    <developerConnection>scm:git:git@github.com:Jahroots/zenika_nc.git</developerConnection>
+    <connection>scm:git:git@github.com:Jahroots/nc-cd-decouvert.git</connection>
+    <developerConnection>scm:git:git@github.com:Jahroots/nc-cd-decouvert.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
      
